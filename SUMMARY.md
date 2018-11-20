@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+* [Introduction](README.md)
+* [Why to setup a PhishDetect Node](why-to-setup.md)
