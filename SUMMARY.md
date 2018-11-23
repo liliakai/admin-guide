@@ -5,7 +5,7 @@
 * [Getting Started](getting_started.md)
   * [Build the binary](build.md)
   * [Run PhishDetect Node](run.md)
-    * [Configure Nginx](configure/nginx.md)
+  * [Configure Nginx](configure/nginx.md)
 * [REST API]()
   * [Submit Indicators to the Node]()
   * [Review Events]()
