@@ -62,3 +62,5 @@ You should use the combination of options available that best suits your need. I
 
     $ build/linux/phishdetect-node
     INFO[0000] Starting PhishDetect Node on 127.0.0.1:7856 and waiting for requests... 
+
+As you can see, PhishDetect Node is now running on host 127.0.0.1 and port 7856. In order to make the service accessible to the public, you should configure an appropriate web server (such as Apache or nginx) and generate an SSL/TLS certificate for it.
