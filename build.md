@@ -14,7 +14,7 @@ Before proceeding building or installing PhishDetect Node you will need to have 
 
 ## Downloading Docker image
 
-If you intend to provide the full functionality of PhishDetect Node, including the ability to dynamically scan for suspicious links and web pages, you will need to have a working Docker environment configured and download PhishDetect's docker image.
+If you intend to provide the full functionality of PhishDetect Node, including the ability to dynamically scan suspicious URLs and HTML, you will need to have a working Docker environment configured and download PhishDetect's docker image.
 
 The installation and configuration of Docker on your system is out of the scope of this guide, but generally you should look into how to best [download and install Docker CE for your platform of choice](https://docs.docker.com/install/).
 
