@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Why Run a PhishDetect Node](why.md)
-* [How to Build PhishDetect Node](build.md)
+* [Build PhishDetect Node](build.md)
 * [Run PhishDetect Node](run.md)
   * [Configure Nginx](configure/nginx.md)
 * [Submit Indicators to the Node]()

@@ -1,4 +1,4 @@
-# How to Build PhishDetect Node
+# Build PhishDetect Node
 
 A PhishDetect Node is essentially a single binary that you can run on a server. This guide will primarily cover the building and configuration of the PhishDetect Node itself. The configuration of the underlying system of choice is up to you, but you are advised to invest sufficient time to devise a proper risk assessment and security audit of your service.
 
