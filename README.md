@@ -8,4 +8,4 @@ A PhishDetect node serves two purposes:
 
 2. It allows to dynamically scan for suspicious links as well as HTML pages for potential phishing.
 
-This guide will provide you instructions on how to setup and configure a PhishDetect Node of your own. The first step, is to read on [why to setup a PhishDetect Node](why-to-setup.md).
+This guide will provide you instructions on how to setup and configure a PhishDetect Node of your own. The first step, is to read on [why to setup a PhishDetect Node](why-run.md).
