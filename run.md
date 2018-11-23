@@ -1,5 +1,3 @@
-# Run PhishDetect Node
-
 At this point you should have a compiled binary for PhishDetect Node, which you have either [downloaded from GitHub](https://github.com/phishdetect/phishdetect-node/releases) or compiled yourself from sources.
 
 You can now check the help message by launching:

@@ -1,5 +1,3 @@
-## Installing requirements
-
 ## Installing MongoDB
 
 Before proceeding building or installing PhishDetect Node you will need to have [MongoDB](https://www.mongodb.com) running. Please refer to the official documentation for details on how to install it on your system. For Debian based system this should generally be sufficient:

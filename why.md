@@ -1,5 +1,3 @@
-# Why run a PhishDetect Node
-
 A **PhishDetect Node** is a server running a PhishDetect service, offering the web interface and the REST API that PhishDetect clients, such as the [browser extension](https://github.com/phishdetect/phishdetect-extension) and others, can interact with.
 
 For example, by default the extension is configured to use a PhishDetect Node located at **node.phishdetect.io** that is operated by the cretors of PhishDetect. However, we encourage the creation of independent Phishdetect Nodes whenever possible.
