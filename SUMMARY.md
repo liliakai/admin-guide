@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Guide for Administrators](README.md)
 * [Why Run a PhishDetect Node](why.md)
 * [Getting Started](getting_started.md)
   * [Install Requirements](requirements.md)
