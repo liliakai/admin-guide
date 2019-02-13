@@ -1,6 +1,6 @@
 PhishDetect is a set of tools designed to provide additional protection to individuals at risk from phishing attacks. PhishDetect is composed of a server, generally called a **PhishDetect Node**, and a number of clients, including a [browser extension](https://github.com/phishdetect/phishdetect-extension) and other applications.
 
-If you are not familiar at all with PhishDetect, its design and purpose, you should first refer to our [design document]() before proceeding any further with this guide. If you are looking for instructions on how to use PhishDetect (as a user, rather than as an administrator) please refer to the official [Help](https://phishdetect.io/help/) page instead.
+If you are not familiar at all with PhishDetect and its purpose, you should first refer to our [design document]() before proceeding any further with this guide. If you are looking for instructions on how to use PhishDetect (as a user, rather than as an administrator) please refer to the official [Help](https://phishdetect.io/help/) page instead.
 
 A PhishDetect Node serves two main purposes.
 

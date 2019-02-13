@@ -37,10 +37,6 @@ Use this option to disable the REST API service. The REST API is used by the cli
 
 Use this option to disable the Web GUI component of the service. The GUI is used by some clients, such as the browser extension, to request the dynamic analysis of suspicious links and pages.
 
-#### `--disable-api`
-
-Use this option to disable the REST API component of the service.
-
 #### `--port`
 
 Use this option to use a custom port number for the web server.
