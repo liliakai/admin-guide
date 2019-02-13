@@ -6,7 +6,7 @@
   * [Install Requirements](requirements.md)
   * [Build the Binary](build.md)
   * [Run PhishDetect Node](run.md)
-  * [Configure Nginx](configure/nginx.md)
+  * [Configure Nginx](nginx.md)
 * [REST API]()
   * [Submit Indicators to the Node]()
   * [Review Events]()
