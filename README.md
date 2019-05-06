@@ -2,7 +2,7 @@ PhishDetect is a set of tools designed to provide additional protection to indiv
 
 If you are not familiar at all with PhishDetect and its purpose, you should first refer to our [design document]() before proceeding any further with this guide. If you are looking for instructions on how to use PhishDetect (as a user, rather than as an administrator) please refer to the official [Help](https://phishdetect.io/help/) page instead.
 
-A PhishDetect Node serves two main purposes.
+A PhishDetect Node serves three main purposes.
 
 - **Collection of known malicious indicators**
 
@@ -11,6 +11,10 @@ It exposes a **REST API** interface that offers a **collection of known maliciou
 - **Analyze suspicious unknown links and pages**
 
 It exposes a **Web GUI** that allows to **dynamically check a suspicious URL or HTML of a page** to identify elements indicative of a potential phishing page. For example, through buttons and context menu items added by the PhishDetect Browser Extension, a user can request the configured PhishDetect Node to check a suspicious link that was sent to them before actually visiting it.
+
+- **Receive notifications and raw messages**
+
+PhishDetect clients (such as the Browser Extension) are also able to send notifications to the server in case any suspicious event occurred. For example, if a user attempted to visit a blocklisted site, or if they received an email from a blocklisted email address, they can notify the PhishDetect Node operators. Additionally, clients can allow users to send raw messages, such as full email sources, in order to allow operators to further investigate.
 
 ---
 

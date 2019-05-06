@@ -8,6 +8,8 @@ This is the output that you should see:
 
     Usage of build/linux/phishdetect-node:
           --api-version string    Specify which Docker API version to use (default "1.37")
+          --brands string         Specify a folder containing YAML files with Brand specifications
+          --contacts string       Specify a link to information or contacts details to be provided to your users
           --debug                 Enable debug logging
           --disable-analysis      Disable the ability to analyze links and pages
           --disable-api           Disable the API routes
@@ -15,11 +17,20 @@ This is the output that you should see:
           --port string           Specify which port number to bind the service on (default "7856")
           --safebrowsing string   Specify a file path containing your Google SafeBrowsing API key (default disabled)
 
+
 #### `--api-version`
 
 Use this option to specify which API version for Docker you intend to use. In most cases you should be able to just ignore this option.
 
 The default value is 1.37.
+
+#### `--brands`
+
+Use this option to specify a path to a folder containing additional Brand definitions. These are used to extend the default [Brands](https://github.com/phishdetect/phishdetect/tree/master/brand) embedded in the core library. You can use this to create custom Brand definitions for your own domain names. Some additional custom brands are collected [here](https://github.com/phishdetect/phishdetect-extra-brands).
+
+#### `--contacts`
+
+Use this option to specify a link to a separate webpage that provides additional information on your PhishDetect Node and perhaps your contact details.
 
 #### `--debug`
 
