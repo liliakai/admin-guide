@@ -8,4 +8,3 @@
   * [Run PhishDetect Node](run.md)
   * [Configure Nginx](nginx.md)
 * [REST API](api.md)
-* [Synchronize your Node with Others]()
