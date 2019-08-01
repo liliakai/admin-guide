@@ -6,7 +6,7 @@ There are multiple reasons why you would want to setup your own PhishDetect Node
 
 #### Avoid blocklists
 
-While there might be several ways for an attacker to identify a PhishDetect Node connecting to the phishing kits (for example by fingerprinting the instrumented headless Google Chrome browser), the most obvious way is by blacklisting the originating IP address. Because the default `node.phishdetect.io` is publicly accessible and is not meant to be resistant to fingerprinting, it might be the case that careful attackers might notice it and block it. By running your own PhishDetect Node you will be able to diversify and reduce the risk of getting blacklisted.
+While there might be several ways for an attacker to identify a PhishDetect Node connecting to the phishing kits (for example by fingerprinting the instrumented headless Google Chrome browser), the most obvious way is by blocklisting the originating IP address. Because the default `node.phishdetect.io` is publicly accessible and is not meant to be resistant to fingerprinting, it might be the case that careful attackers might notice it and block it. By running your own PhishDetect Node you will be able to diversify and reduce the risk of getting blocklisted.
 
 #### Enforce your own privacy policy
 
