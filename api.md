@@ -44,7 +44,7 @@ Content-Type: application/json
         "The page contains suspicious text",
         "The link might contain base64 encoded parameters (low confidence)"
     ],
-    "whitelisted": true
+    "safelisted": true
 }
 ```
 
@@ -77,7 +77,7 @@ Content-Type: application/json
     "url": "google.com",
     "url_final": "http://google.com",
     "warnings": null,
-    "whitelisted": true
+    "safelisted": true
 }
 ```
 
