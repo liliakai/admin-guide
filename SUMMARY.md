@@ -7,4 +7,5 @@
   * [Build the Binary](build.md)
   * [Run PhishDetect Node](run.md)
   * [Configure Nginx](nginx.md)
+  * [Administering Phishdetect](admin.md)
 * [REST API](api.md)
