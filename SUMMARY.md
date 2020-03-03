@@ -8,4 +8,5 @@
   * [Run PhishDetect Node](run.md)
   * [Configure Nginx](nginx.md)
   * [Administering Phishdetect](admin.md)
+  * [Advanced](advanced.md)
 * [REST API](api.md)
